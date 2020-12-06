@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.score-board {
+    display: inline;
+}
+
+/* .gameover {
+    color: red;
+    font-size: 75px;
+} */
+
+.canvas {
+  background-color: #3e3e3e;
+  border: 5px solid black;
+}
